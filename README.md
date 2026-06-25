@@ -1,44 +1,150 @@
-# Hi there, I'm [Your Name] 👋
+<div align="center">
 
-## 🚀 About Me
-- 💻 Passionate Android & Software Developer
-- 📱 Building mobile applications with Kotlin & Java
-- 🌐 Full-stack development enthusiast
-- 🔧 Love solving real-world problems with code
-- 📚 Always learning new technologies
+# Hey there! 👋 I'm Rushikesh
+
+### 🚀 Android Developer | Problem Solver | Tech Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Building+Android+Apps;Learning+New+Technologies;Turning+Ideas+Into+Code;Always+Exploring+New+Technologies)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🌟 About Me
+
+```yaml
+📍 Location: India
+🎓 Education: Computer Science
+💼 Role: Android Developer & Software Engineer
+🌱 Currently Learning: Jetpack Compose, Kotlin Coroutines
+🎯 Goal: Build apps that make a difference
+⚡ Fun Fact: I debug with console.log more than I should
+```
+
+---
 
 ## 🛠️ Tech Stack
 
-### Mobile Development
+<div align="center">
+
+### 📱 Mobile Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-### Backend & Web
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 🌐 Web & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Databases & Tools
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelwaderushikesh27&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelwaderushikesh27&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=nelwaderushikesh27&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📌 Featured Projects
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🧮 **Calculator App** | Material Design calculator with clean UI | Kotlin, MVVM |
+| 📝 **Notes App** | Full-featured notes with Room database | Kotlin, Room, Compose |
+| 🌤️ **Weather App** | Real-time weather with API integration | Kotlin, Retrofit |
+| ✅ **Todo App** | Task manager with categories & priorities | Kotlin, Compose |
+| 🔐 **Password Generator** | Secure CLI password generator | Python |
+| 🔗 **URL Shortener** | Short URLs with analytics | Python, Flask |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nelwaderushikesh27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelwaderushikesh27&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nelwaderushikesh27&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nelwaderushikesh27&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 🐍 GitHub Contributions
+
+<div align="center">
+
+[![nelwaderushikesh27's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nelwaderushikesh27&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelwaderushikesh27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=nelwaderushikesh27&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+### ⭐ Star my repos if you find them useful!
+
+</div>
+
+---
+
+<div align="center">
+
+![Wave](https://media.giphy.com/media/M9gbBd9nbDrLs6dlM/giphy.gif)
+
+</div>
